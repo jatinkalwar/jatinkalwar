@@ -15,8 +15,8 @@
 <a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://instagram.com/the_jatin_kalwarr"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
-<a href="https://github.com/jatinkalwar/m-bomber2.O"><img title="m-bomber2.O" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwar&repo=m-bomber2.O&theme=radical"></a>
-<a href="https://github.com/jatinkalwar/fisher"><img title="Fisher" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwars&repo=fisher&theme=highcontrast"></a>
+<a href="https://github.com/jatinkalwar/m-bomber2.O"><img title="Master-Bomber2.O" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwar&repo=m-bomber2.O&theme=radical"></a>
+<a href="https://github.com/jatinkalwar/hanger"><img title="Hanger" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwars&repo=hanger&theme=highcontrast"></a>
 <a href="https://github.com/jatinkalwar/finder"><img title="Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwar&repo=finder&theme=vision-friendly-dark"></a>
 <a href="https://github.com/jatinkalwar/Master-Bomber"><img title="Master-Bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwar&repo=Master-Bomber&theme=highcontrast"></a>
 </p>
