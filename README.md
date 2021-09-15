@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-<a href="https://GitHub.com/jatinkalwar"><img title="YouTube" src="https://img.shields.io/badge/The Jatin Kalwar-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://GitHub.com/jatinkalwar"><img title="Github" src="https://img.shields.io/badge/The Jatin Kalwar-brightgreen?style=for-the-badge&logo=github"></a>
 
 
 <p align="center">
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/the_jatin_kalwarr"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://instagram.com/the_jatin_kalwarr"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 <p align="center">
 <a href="https://github.com/jatinkalwar/m-bomber2.O"><img title="Master-Bomber2.O" src="https://github-readme-stats.vercel.app/api/pin/?username=jatinkalwar&repo=m-bomber2.O&theme=radical"></a>
