@@ -24,3 +24,4 @@
 <p align="center">
 <a href="https://github.com/Jatinkalwar"><img title="The Jatin Kalwar" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkalwar&layout=compact"></a>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/jatinkalwar/count.svg)
