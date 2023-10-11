@@ -11,6 +11,10 @@
 <p align="center">
 <a href="https://GitHub.com/jatinkalwar"><img title="Github" src="https://img.shields.io/badge/The Jatin Kalwar-brightgreen?style=for-the-badge&logo=github"></a>
 
+### 💻 Languages and Tools
+
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,idea,vscode,py,stackoverflow,git,github,postman,firebase,mongodb,supabase&perline=18)
+<hr>
 
 <p align="center">
 <a href="https://t.me/thejatinkalwar"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
