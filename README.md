@@ -6,7 +6,7 @@
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,idea,vscode,py,stackoverflow,git,github,postman,firebase,mongodb,supabase,react&perline=18)
+![trophy](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,arduino,idea,vscode,py,stackoverflow,git,github,postman,firebase,mongodb,bash,supabase,react&perline=18)
 <hr>  
 
 ### KNOW MORE ABOUT ME>>>>
